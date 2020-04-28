@@ -1,0 +1,28 @@
+.ans {
+    border: 1px solid black;
+    width: 118px;
+    margin-left: 4px;
+    margin-right: 568px;
+    padding-left: 12px;
+}
+table {
+    border: 1px solid black;
+    padding-top: 30px;
+    margin-top: -45px;
+}
+button {
+    color: darkgreen;
+    background-color: rgb(33,33,33);
+    border-color: black;
+    width: 30px;
+}
+button:focus {
+    outline: none;
+}
+body {
+    background-color: rgb(33,33,33);
+    color: darkgreen;
+}
+button:hover {
+    color: whitesmoke;
+}
